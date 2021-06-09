@@ -1,2 +1,2 @@
-# goArif.com
+# GoArif.com
 www.goArif.com
